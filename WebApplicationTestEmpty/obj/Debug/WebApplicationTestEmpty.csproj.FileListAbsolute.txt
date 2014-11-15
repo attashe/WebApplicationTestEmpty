@@ -1,0 +1,5 @@
+c:\users\администратор\documents\visual studio 2012\Projects\WebApplicationTestEmpty\WebApplicationTestEmpty\bin\WebApplicationTestEmpty.dll
+c:\users\администратор\documents\visual studio 2012\Projects\WebApplicationTestEmpty\WebApplicationTestEmpty\bin\WebApplicationTestEmpty.pdb
+c:\users\администратор\documents\visual studio 2012\Projects\WebApplicationTestEmpty\WebApplicationTestEmpty\obj\Debug\WebApplicationTestEmpty.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2012\Projects\WebApplicationTestEmpty\WebApplicationTestEmpty\obj\Debug\WebApplicationTestEmpty.dll
+c:\users\администратор\documents\visual studio 2012\Projects\WebApplicationTestEmpty\WebApplicationTestEmpty\obj\Debug\WebApplicationTestEmpty.pdb
